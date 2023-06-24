@@ -4,6 +4,7 @@
 #
 # jpcap console test tool startup script
 #
+export LIB_PCAP=/usr/lib/x86_64-linux-gnu/
 JPCAP_V=0.01.18
 
 if [ -f /usr/bin/jpcap ]; then
