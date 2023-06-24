@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"net.sourceforge.jpcap.capture"},{"l":"net.sourceforge.jpcap.client"},{"l":"net.sourceforge.jpcap.net"},{"l":"net.sourceforge.jpcap.simulator"},{"l":"net.sourceforge.jpcap.util"}]
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"net.sourceforge.jpcap.capture"},{"l":"net.sourceforge.jpcap.client"},{"l":"net.sourceforge.jpcap.net"},{"l":"net.sourceforge.jpcap.simulator"},{"l":"net.sourceforge.jpcap.util"}];updateSearchResults();

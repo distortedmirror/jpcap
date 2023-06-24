@@ -13,10 +13,10 @@ import java.io.StringWriter;
 /**
  * Functions for formatting and printing binary data in hexadecimal.
  *
- * @author Patrick Charles and Jonas Lehmann
- * @version $Revision: 1.3 $
- * @lastModifiedBy $Author: pcharles $
- * @lastModifiedAt $Date: 2001/06/04 05:07:06 $
+ * author Patrick Charles and Jonas Lehmann
+ * version $Revision: 1.3 $
+ * lastModifiedBy $Author: pcharles $
+ * lastModifiedAt $Date: 2001/06/04 05:07:06 $
  */
 public class HexHelper
 {

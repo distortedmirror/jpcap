@@ -11,10 +11,10 @@ package net.sourceforge.jpcap.util;
 /**
  * Utility functions for populating and manipulating arrays.
  *
- * @author Patrick Charles and Jonas Lehmann
- * @version $Revision: 1.9 $
- * @lastModifiedBy $Author: pcharles $
- * @lastModifiedAt $Date: 2004/09/28 17:31:37 $
+ * author Patrick Charles and Jonas Lehmann
+ * version $Revision: 1.9 $
+ * lastModifiedBy $Author: pcharles $
+ * lastModifiedAt $Date: 2004/09/28 17:31:37 $
  */
 public class ArrayHelper
 {

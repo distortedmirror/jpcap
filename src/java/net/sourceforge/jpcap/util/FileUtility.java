@@ -18,10 +18,10 @@ import java.io.BufferedReader;
 /**
  * Writes data in tcpdump format
  *
- * @author Joyce Lin
- * @version $Revision: 1.1 $
- * @lastModifiedBy $Author: pcharles $
- * @lastModifiedAt $Date: 2004/09/28 17:31:38 $
+ * author Joyce Lin
+ * version $Revision: 1.1 $
+ * lastModifiedBy $Author: pcharles $
+ * lastModifiedAt $Date: 2004/09/28 17:31:38 $
  *
  */
 public class FileUtility 

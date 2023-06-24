@@ -11,6 +11,7 @@
 #     export JAVA_HOME=/usr/java/jdk1.3 ; export PATH=$JAVA_HOME/bin:$PATH
 #
 export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-arm64/
+#export JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64/
 #
 #   Futher customize this script by changing PROJECT_HOME and RELEASE_HOME.
 #

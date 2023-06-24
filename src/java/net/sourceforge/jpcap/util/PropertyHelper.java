@@ -19,10 +19,10 @@ import java.awt.Color;
 /**
  * Property helper utility methods.
  *
- * @author Patrick Charles and Jonas Lehmann
- * @version $Revision: 1.3 $
- * @lastModifiedBy $Author: pcharles $
- * @lastModifiedAt $Date: 2004/02/24 17:59:20 $
+ * author Patrick Charles and Jonas Lehmann
+ * version $Revision: 1.3 $
+ * lastModifiedBy $Author: pcharles $
+ * lastModifiedAt $Date: 2004/02/24 17:59:20 $
  */
 public class PropertyHelper
 {

@@ -47,7 +47,7 @@ JDOCJAR_NAME=$(RH)/jars/javadoc_$(PKG_TOP)-$(PKG_VERSION).jar
 javadoc: 
 	mkdir -p $(RH)/jdoc
 	mkdir -p $(RH)/jdoc/jpcap
-	javadoc -windowtitle $(JAVADOC_TITLE) \
+#	javadoc -windowtitle $(JAVADOC_TITLE) \
 	-d $(RH)/jdoc/jpcap $(PKG_NAMES)
 	jar cvf $(JDOCJAR_NAME) -C $(RH)/jdoc/jpcap .
 

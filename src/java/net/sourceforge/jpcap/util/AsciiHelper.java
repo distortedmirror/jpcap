@@ -13,10 +13,10 @@ import java.io.StringWriter;
 /**
  * Functions for formatting and printing binary data as ascii.
  *
- * @author Patrick Charles and Jonas Lehmann
- * @version $Revision: 1.1 $
- * @lastModifiedBy $Author: pcharles $
- * @lastModifiedAt $Date: 2001/06/14 21:19:58 $
+ * author Patrick Charles and Jonas Lehmann
+ * version $Revision: 1.1 $
+ * lastModifiedBy $Author: pcharles $
+ * lastModifiedAt $Date: 2001/06/14 21:19:58 $
  */
 public class AsciiHelper
 {

@@ -16,10 +16,10 @@ import java.io.Serializable;
  * <p>
  * Container for java equivalent of c's struct timeval.
  *
- * @author Patrick Charles and Jonas Lehmann
- * @version $Revision: 1.3 $
- * @lastModifiedBy $Author: pcharles $
- * @lastModifiedAt $Date: 2004/09/28 17:31:38 $
+ * author Patrick Charles and Jonas Lehmann
+ * version $Revision: 1.3 $
+ * lastModifiedBy $Author: pcharles $
+ * lastModifiedAt $Date: 2004/09/28 17:31:38 $
  */
 public class Timeval implements Serializable
 {
