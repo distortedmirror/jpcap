@@ -8,6 +8,7 @@
 # run tool in packet capture or simulator (aka. packet generator) mode?
 net.sourceforge.jpcap.simulator=true
 
+
 ## console settings
 
 # use ansi escape sequences to color console text output?
@@ -52,6 +53,6 @@ net.sourceforge.jpcap.ui.color.proto.tcp.lo=192 192 64
 net.sourceforge.jpcap.ui.color.proto.tcp.hi=255 255 128
 net.sourceforge.jpcap.ui.color.proto.udp.lo=128 192 128
 net.sourceforge.jpcap.ui.color.proto.udp.hi=160 212 160
-net.sourceforge.jpcap.ui.color.host.icon=255 0 0
+<xuxcxggxcgggxgggzggxvnet.sourceforge.jpcap.ui.color.host.icon=255 0 0
 net.sourceforge.jpcap.ui.color.host.text=255 255 255
 

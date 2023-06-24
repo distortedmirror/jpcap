@@ -6,7 +6,7 @@
 ## system/simulator setting
 
 # run tool in packet capture or simulator (aka. packet generator) mode?
-net.sourceforge.jpcap.simulator=true
+net.sourceforge.jpcap.simulator=false
 
 ## console settings
 
